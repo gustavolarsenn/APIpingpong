@@ -21,3 +21,5 @@ Caso for algo diferente das citadas anteriormente, retornará "Nem ping nem pong
 Caso seja acessado alguma rota diferente das citadas anteriormente, será retornado o HTTP error 404 "NOT FOUND"
 
 Caso for utilizado algum outro método além do 'GET' nas rotas existente, será retornado o HTTP error 405 "METHOD NOT ALLOWED"
+
+Para utilizar a API, basta rodar o script, e acessar as rotas (o script precisa estar rodando para acessar)
